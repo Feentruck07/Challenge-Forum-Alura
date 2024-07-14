@@ -11,19 +11,6 @@
 - [Token JWT](https://jwt.io/)
 - [Swagger](https://swagger.io/)
 
-## Como utilizar esse repositório
-
-- Faça um fork do projeto ou faça download pelo botão ["code"](https://github.com/FilipeRobot/challenge-alura-forum/archive/refs/heads/main.zip) do GitHub
-- Tendo o projeto na sua máquina, abra-o em seu IDE preferido como Intellij ou Eclipse
-- Faça o download das dependências do projeto usando o maven
-- Crie um banco de dados MySQL, de preferência sem nenhuma tabela
-- Defina as variáveis de ambiente
-  - `DB_NAME`: O nome do banco de dados da aplicação, exemplo "db_forum_Alura_api"
-  - `DB_USER`: O nome de usuário do banco de dados
-  - `DB_PASSWORD`: A senha do banco de dados
-  - `JWT_SECRET`: A "senha/secret" usada/o para gerar e desmontar o Token JWT
-- rode o projeto
-
 ## Documentação
 Esse projeto utiliza o Swagger para gerar a documentação, ao rodar o projeto você pode acessar
 o EndPoint `/swagger-ui` para ver a documentação do projeto.
