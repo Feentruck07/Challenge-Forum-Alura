@@ -1,4 +1,10 @@
 <h1 align="center"> # Challenge Alura Forum # </h1>
+
+<h1 align="center"><img loading= "lazy" src= "https://github.com/user-attachments/assets/cee95acf-b2e2-452c-aaa7-8398787e8d43"/></h1>
+</img>
+"/></h1>
+</img>
+
 <p align="center">
 ### Tecnologias utilizadas: ###
 <p align="center">
