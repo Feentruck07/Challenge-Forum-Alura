@@ -1,5 +1,4 @@
-<p align="center">
-# Challenge Alura Forum #
+<p align="center"> # Challenge Alura Forum # </h1>
 <p align="center">
 ### Tecnologias utilizadas: ###
 <p align="center">
