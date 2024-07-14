@@ -1,3 +1,4 @@
+<p align="center">
 # Challenge Alura Forum 
 
 ### Tecnologias utilizadas:
