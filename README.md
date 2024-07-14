@@ -1,4 +1,4 @@
-# Challenge ONE | Back End | Alura Forum 
+# Challenge Alura Forum 
 
 ### Tecnologias utilizadas:
 
