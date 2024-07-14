@@ -1,6 +1,6 @@
 <p align="center">
 # Challenge Alura Forum 
-
+<p align="center">
 ### Tecnologias utilizadas:
 
 - [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
